@@ -9,8 +9,8 @@
 
 ## Timing/Power/Ultilization Report
 
-![优化后时序报告.png](Documents/Timing.png.png)
+![优化后时序报告.png](Documents/Timing.png)
 
-![优化后功率报告.png](Documents/Power.png.png)
+![优化后功率报告.png](Documents/Power.png)
 
-![优化后资源报告.png](Documents/Utilization.png.png)
+![优化后资源报告.png](Documents/Utilization.png)
