@@ -1,4 +1,4 @@
-# FPGA-RSA-SM4 Digital Envelope  
+# FPGA RSA-SM4 Digital Envelope  
 **Based on Alinx Zynq 7020s**
 
 ## Timing Diagram
