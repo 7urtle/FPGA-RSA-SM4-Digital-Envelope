@@ -1,5 +1,5 @@
 # FPGA RSA-SM4 Digital Envelope  
-**Based on Alinx Zynq 7020s**
+**UESTC Graduation Project - Based on Alinx Zynq 7020s**
 
 ## Timing Diagram
 
