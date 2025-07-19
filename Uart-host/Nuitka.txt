@@ -1,0 +1,1 @@
+python -m nuitka --onefile --follow-imports --plugin-enable=pyqt5 main.py

@@ -172,10 +172,10 @@ module mod_exp  //montgomery
                         exp <= exp >> 1;
                         rsa_state <= 3'd0;
                     end
-                    else begin
-                        state <= OUTPUT;
-                        sync <= 1;
-                    end
+                      else begin
+                          state <= OUTPUT;
+                          sync <= 1;
+                      end
                     end
                   endcase
                 end
@@ -194,7 +194,7 @@ module mod_exp  //montgomery
 
 
 
-    redc_x redc_gpt_inst (
+    redc_x redc_inst (
     .clk(clk),
     .t(redc_in),
     .x(redc_out)
