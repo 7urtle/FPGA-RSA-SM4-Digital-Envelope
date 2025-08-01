@@ -1,5 +1,6 @@
 # FPGA RSA-SM4 Digital Envelope  
-**UESTC Graduation Project - Based on Alinx Zynq 7020s**
+**UESTC Graduation Project - Based on Alinx Zynq 7020s**  
+Uard-Host part refer to : [PyQt-multifunctional-uart-helper](https://github.com/IronSublimate/PyQt-multifunctional-uart-helper)
 
 ## Timing Diagram
 
